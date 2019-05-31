@@ -1,0 +1,33 @@
+
+header {
+    height: 100px;
+}
+
+.navigation li a {
+    font-size: 18px;
+    margin-right: 12px;
+}
+.navigation li a:hover {
+    font-weight: bold;
+}
+
+.navigation-text {
+    font-size: 30px;
+}
+.category li a {
+    color: black;
+    font-size: 25px;
+}
+
+.category li a:hover {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+hr {
+    margin-bottom: 40px;
+}
+
+img {
+    border: 1px solid black;
+}

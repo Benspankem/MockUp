@@ -1,0 +1,25 @@
+header {
+    height: 100px;
+    background-color: black;
+}
+
+.navigation li a {
+    font-size: 18px;
+    margin-right: 12px;
+}
+.navigation li a:hover {
+    font-weight: bold;
+}
+
+.navigation-text {
+    font-size: 30px;
+}
+.category li a {
+    color: black;
+    font-size: 25px;
+}
+
+.category li a:hover {
+    font-weight: bold;
+    font-size: 27px;
+}
